@@ -139,10 +139,3 @@ The proposed model achieved strong performance in facial emotion recognition wit
 - Attention mechanisms for better accuracy
 - Deployment using Flask or Streamlit
 
----
-
-##  How to Run the Project
-
-### 1. Clone the Repository
-```bash
-git clone <your-github-repo-link>
