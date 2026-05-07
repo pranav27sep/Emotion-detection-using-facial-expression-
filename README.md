@@ -1,7 +1,6 @@
 # Emotion-detection-using-facial-expression-
 AI-powered Facial Emotion Detection System using Deep Learning and Transfer Learning techniques with ResNet-18 for accurate real-time emotion classification across 7 human emotions.
 
-# Emotion Detection using Deep Learning
 
 ##  Project Overview
 This project focuses on developing an intelligent Facial Emotion Detection System using Deep Learning and Computer Vision techniques. The model is capable of identifying human emotions from facial images and classifying them into seven different emotion categories.
